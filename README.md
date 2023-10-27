@@ -12,3 +12,9 @@ How to use Dashlaunc plugin:
 1. Add "GoldSpoof17559.xex" to the plugin list in your launch.ini
 2. Reboot console
 3. You are golden!
+***
+Thanks:
+
+https://github.com/InvoxiPlayGames/UsbdSecPatch
+
+https://github.com/Byrom90/Halo_Sunrise_Plugin_2.0
